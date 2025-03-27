@@ -1,7 +1,7 @@
 # Process Control Block (PCB) Emulation
 
 This is a program that emulates how a process control block works.
-It is a basic linked list of simple process information.
+It is a basic linked list of simple process information stored in memory.
 
 ## Usage
 
