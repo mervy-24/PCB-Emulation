@@ -1,13 +1,12 @@
 # Process Control Block (PCB) Emulation
 
-This is a program that emulates how a process control block works.
+This is a program emulates a process control block works.
 It is a basic linked list of simple process information stored in memory.
 
 ## Usage
 
-Just type:
+In the working directory type:
 `./build/pcb`
-in your terminal.
 
 ## What the demonstration shows:
 
@@ -20,3 +19,7 @@ in your terminal.
 
 This was made for a university assignment.
 Was entirely made by me, however ChatGPT was used to help with some error handling.
+
+## Possible further changes:
+
+Allow for user inputs.
