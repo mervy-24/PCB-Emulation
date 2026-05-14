@@ -14,7 +14,7 @@ in your terminal.
   - Successful insertion into list.
   - Successful rejection of duplicate insertion.
   - Successful removal from list.
-  - Successful rejection of non-present element removal.
+  - Successful rejection of non-present elemental removal.
 
 ## Note
 
